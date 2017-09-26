@@ -1,0 +1,5 @@
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\MathLib\bin\Debug\MathLib.dll
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\MathLib\bin\Debug\MathLib.pdb
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\MathLib\obj\Debug\MathLib.dll
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\MathLib\obj\Debug\MathLib.pdb

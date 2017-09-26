@@ -1,0 +1,8 @@
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\bin\Debug\LibraryTest.exe.config
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\bin\Debug\LibraryTest.exe
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\bin\Debug\MathLib.dll
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\bin\Debug\MathLib.pdb
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\obj\Debug\LibraryTest.csprojResolveAssemblyReference.cache
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\obj\Debug\LibraryTest.exe
+C:\OneDrive\one\ICT\VIA\semesters\sem4\DNP1\summer-autumn\DNP_exercises\MathLib\LibraryTest\obj\Debug\LibraryTest.pdb
